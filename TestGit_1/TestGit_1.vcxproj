@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="KWclass.cpp" />
     <ClCompile Include="TestClass.cpp" />
     <ClCompile Include="TestGit_1.cpp" />
   </ItemGroup>
